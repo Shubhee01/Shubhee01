@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhi Choubey</h1>
 <div id="header" align="center">
-  <img src="[https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif]"/>
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/ width="100">
 </div>
 <h3 align="center">A passionate and creative frontend developer with interest in machine learning</h3>
 
