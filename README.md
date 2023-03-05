@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhee01&label=Profile%20views&color=0e75b6&style=flat" alt="shubhee01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhee01" alt="shubhee01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhee01" alt="Shubhee01" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and deep learning**
 
